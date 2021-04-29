@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/budget-app-tracker/static/css/main.b7701313.chunk.css",
+    "main.js": "/budget-app-tracker/static/js/main.00cd2095.chunk.js",
+    "main.js.map": "/budget-app-tracker/static/js/main.00cd2095.chunk.js.map",
+    "runtime-main.js": "/budget-app-tracker/static/js/runtime-main.d768b011.js",
+    "runtime-main.js.map": "/budget-app-tracker/static/js/runtime-main.d768b011.js.map",
+    "static/js/2.6c1807e5.chunk.js": "/budget-app-tracker/static/js/2.6c1807e5.chunk.js",
+    "static/js/2.6c1807e5.chunk.js.map": "/budget-app-tracker/static/js/2.6c1807e5.chunk.js.map",
+    "static/js/3.1cbf0744.chunk.js": "/budget-app-tracker/static/js/3.1cbf0744.chunk.js",
+    "static/js/3.1cbf0744.chunk.js.map": "/budget-app-tracker/static/js/3.1cbf0744.chunk.js.map",
+    "index.html": "/budget-app-tracker/index.html",
+    "static/css/main.b7701313.chunk.css.map": "/budget-app-tracker/static/css/main.b7701313.chunk.css.map",
+    "static/js/2.6c1807e5.chunk.js.LICENSE.txt": "/budget-app-tracker/static/js/2.6c1807e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d768b011.js",
+    "static/js/2.6c1807e5.chunk.js",
+    "static/css/main.b7701313.chunk.css",
+    "static/js/main.00cd2095.chunk.js"
+  ]
+}
